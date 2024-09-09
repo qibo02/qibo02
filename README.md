@@ -1,4 +1,4 @@
-# 👋 Hi you can call me qibo🐒
+# 👋 Hi, you can call me qibo🐒
 
 **`Hardcore Human`**
 
