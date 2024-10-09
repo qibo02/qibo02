@@ -3,7 +3,7 @@
 
 **`Not a robot, but Homo sapiens`**
 
-👋Hi, my name is Muhammad Naqib or my alias name is qibo. Currently working as IT Specialist, also do ⌨️programming and 🤖robotics on free time. Still learning📖 on frontend tech stack to pursue career in frontend developer🚀.
+👋Hi, my name is Muhammad Naqib or my alias name is qibo. Do ⌨️programming and 🤖robotics on free time. Still learning📖.
 Feel free to review my repo and profile😆.
 
 ---
