@@ -11,11 +11,9 @@ Feel free to review my repo and profile😆.
 ### 📱 Follow me on
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/naqibshohar"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mr.naqib02@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href=""> 
+  <a href="https://discord.com/users/473036982071722004"> 
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </p>  
 
