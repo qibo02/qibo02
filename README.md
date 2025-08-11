@@ -3,9 +3,7 @@
 
 **`Not a robot, but Homo sapiens`**
 
-👋Hi, my name is Muhammad Naqib or my alias name is qibo. Do ⌨️programming and 🤖robotics on free time. Still learning📖.
-Feel free to review my repo and profile😆.
-
+Qibo code on his free time
 ---
 
 ### 📱 Follow me on
