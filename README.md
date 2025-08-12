@@ -1,9 +1,7 @@
 
 ![Qibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=qibo02&show_icons=true&theme=transparent)
 
-**`Not a robot, but Homo sapiens`**
-
-Qibo code on his free time
+**`Qibo code on his free time`**
 ---
 
 ### 📱 Follow me on
